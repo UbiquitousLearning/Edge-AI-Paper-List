@@ -84,6 +84,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [ATC'21] [Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad) </br>
 [ATC'21] [Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) </br>
 [EuroSys'20] [Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning](https://dl.acm.org/doi/abs/10.1145/3342195.3387555) </br>
+[NSDI'23][Gemel: Model Merging for Memory-Efficient, Real-Time Video Analytics at the Edge](https://www.usenix.org/conference/nsdi23/presentation/padmanabhan) </br>
 
 ## Energy-harvested devices
 
@@ -131,5 +132,7 @@ Note: Edge here refers to resource-constrained devices, not edge servers; AI her
 [EuroSys'21] [Accelerating graph sampling for graph machine learning using GPUs](https://dl.acm.org/doi/10.1145/3447786.3456244) </br>
 [EuroSys'21] [DGCL: An Efficient Communication Library for Distributed GNN Training](https://dl.acm.org/doi/abs/10.1145/3447786.3456233) </br>
 [EuroSys'21] [Seastar: Vertex-Centric Programming for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447786.3456247) </br>
+[NSDI'23] [FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue) </br>
+[NSDI'23][RECL: Responsive Resource-Efficient Continuous Learning for Video Analytics](https://www.usenix.org/conference/nsdi23/presentation/khani) </br>
 
 Another awesome [paper list about Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
